@@ -1,0 +1,11 @@
+# Get-It-Done-SD_Analysis files
+# These are mostly (too) large .csv files
+
+OLD_get_it_done_311_requests_datasd_20180729.csv
+get_it_done_2016_requests_datasd.csv
+get_it_done_2017_requests_datasd.csv
+get_it_done_2018_requests_datasd_20181117.csv
+gid_with_demo.csv
+gid_with_zip_load.csv
+gid_with_zipcodes.csv
+
