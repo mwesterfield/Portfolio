@@ -9,3 +9,10 @@ gid_with_demo.csv
 gid_with_zip_load.csv
 gid_with_zipcodes.csv
 
+# SD_ParkingMeters
+
+SanityCheck_EDA.ipynb
+all_meter_counts.csv
+one_meter_counts.csv
+one_meter.csv
+treas_parking_payments_2019_datasd.csv
